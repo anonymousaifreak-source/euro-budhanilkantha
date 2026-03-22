@@ -45,7 +45,7 @@ const Index = () => {
               className="z-10"
             >
               <span className="inline-block px-4 py-1.5 mb-6 font-bold tracking-wider uppercase rounded-full bg-primary text-primary-foreground text-xs">
-                Hattiban Branch
+                Budhanilkantha Branch
               </span>
               <h1 className="text-4xl sm:text-5xl lg:text-7xl font-display font-bold leading-[1.1] text-brand-ink">
                 Where{" "}
@@ -146,7 +146,7 @@ const Index = () => {
             >
               <img
                 src={branchHeadImg}
-                alt="Branch Head of Euro Kids Hattiban"
+                alt="Branch Head of Euro Kids Budhanilkantha"
                 className="w-64 h-64 mx-auto lg:mx-0 rounded-4xl object-cover shadow-xl"
               />
             </motion.div>
@@ -163,7 +163,7 @@ const Index = () => {
                 "Every Child is a Unique Learner"
               </h2>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                Welcome to Euro Kids Hattiban! We believe that the early years of a child's life
+                Welcome to Euro Kids Budhanilkantha! We believe that the early years of a child's life
                 are the most precious. Our Montessori-inspired approach ensures that your child
                 learns through exploration, creativity, and play.
               </p>
@@ -172,7 +172,7 @@ const Index = () => {
                 I look forward to welcoming your family to our learning community.
               </p>
               <p className="mt-6 font-display font-bold text-brand-ink">— Ms. Anita Sharma</p>
-              <p className="text-sm text-muted-foreground">Branch Head, Hattiban</p>
+              <p className="text-sm text-muted-foreground">Branch Head, Budhanilkantha</p>
             </motion.div>
           </div>
         </div>
