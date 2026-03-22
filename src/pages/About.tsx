@@ -49,7 +49,7 @@ const About = () => {
                 Nurturing <span className="text-brand-green">Little</span> Minds Since 2015
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-[50ch]">
-                Euro Kids Hattiban is a vibrant Montessori preschool dedicated to helping children
+                Euro Kids Budhanilkantha is a vibrant Montessori preschool dedicated to helping children
                 aged 2–6 discover the joy of learning in a safe, loving environment.
               </p>
             </motion.div>
