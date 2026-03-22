@@ -7,9 +7,9 @@ import SectionHeading from "@/components/SectionHeading";
 import { toast } from "sonner";
 
 const contactInfo = [
-  { icon: MapPin, title: "Address", detail: "hattiban, Lalitpur, Nepal", color: "yellow" as const },
+  { icon: MapPin, title: "Address", detail: "Budhanilkantha, Lalitpur, Nepal", color: "yellow" as const },
   { icon: Phone, title: "Phone", detail: "+977-1-5000000", color: "red" as const },
-  { icon: Mail, title: "Email", detail: "info@eurokids-hattiban.edu.np", color: "green" as const },
+  { icon: Mail, title: "Email", detail: "info@eurokids-Budhanilkantha.edu.np", color: "green" as const },
   { icon: Clock, title: "Hours", detail: "Sun–Fri: 8:00 AM – 4:00 PM", color: "blue" as const },
 ];
 
@@ -123,8 +123,8 @@ const Contact = () => {
               <SectionHeading title="Find Us" align="left" />
               <div className="flex-1 rounded-4xl overflow-hidden shadow-xl min-h-[300px]">
                 <iframe
-                  title="Euro Kids hattiban Location"
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3533.123456789!2d85.3112!3d27.6778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2shattiban%2C%20Lalitpur!5e0!3m2!1sen!2snp!4v1234567890"
+                  title="Euro Kids Budhanilkantha Location"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3533.123456789!2d85.3112!3d27.6778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sBudhanilkantha%2C%20Lalitpur!5e0!3m2!1sen!2snp!4v1234567890"
                   width="100%"
                   height="100%"
                   style={{ border: 0, minHeight: 400 }}
