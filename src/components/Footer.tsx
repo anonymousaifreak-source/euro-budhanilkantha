@@ -49,7 +49,7 @@ const Footer = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-0.5 text-brand-yellow flex-shrink-0" />
-                Hattiban, Lalitpur, Nepal
+                Budhanilkantha, Lalitpur, Nepal
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-brand-yellow flex-shrink-0" />
@@ -57,14 +57,14 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-brand-yellow flex-shrink-0" />
-                info@eurokids-Hattiban.edu.np
+                info@eurokids-Budhanilkantha.edu.np
               </li>
             </ul>
           </div>
         </div>
 
         <div className="mt-12 pt-8 border-t border-brand-cream/10 flex flex-col md:flex-row items-center justify-between gap-4 text-xs">
-          <p>© {new Date().getFullYear()} Euro Kids Montessori – Hattiban. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Euro Kids Montessori – Budhanilkantha. All rights reserved.</p>
           <p className="flex items-center gap-1">
             Made with <Heart className="w-3 h-3 text-brand-red" /> for little learners
           </p>
